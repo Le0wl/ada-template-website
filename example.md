@@ -123,4 +123,4 @@ The final element.
 ```
 { % include_relative assets/py/plotly_example.html % } 
 
-<iframe src="assets/py/plotly_example.html" width="600" height="400"></iframe>
+<iframe src="https:Le0wl.github.io/ada-template-website/assets/py/plotly_example.html" width="600" height="400"></iframe>

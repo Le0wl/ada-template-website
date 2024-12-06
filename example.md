@@ -121,3 +121,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+{ % include_relative assets/py/plotly_example.html % } 

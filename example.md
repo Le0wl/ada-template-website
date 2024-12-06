@@ -122,3 +122,5 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 The final element.
 ```
 
+<iframe src="https:Le0wl.github.io/ada-template-website/assets/py/plotly_example.html" width="600" height="400"></iframe>
+

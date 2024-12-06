@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
-title: ADA Template Website
-description: A template website for ADA
+title: Leo's test page
+description: A template website for ADA trying to figure out if I can use plotly
 show_downloads: True
 navigation:
   - title: Home
